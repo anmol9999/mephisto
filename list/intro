@@ -13,5 +13,19 @@
  indexing and slicing
  looping/ traversal of list
  functions of list comprehension
+ 1)adding item
+ -append()
+ -insert
+ -extend
+ 2) removing item
+ -remove
+ -clear
+ -pop
+ 3)utility
+ -reverse
+ -sort
+ -count
+ -index
+ -copy
  lambda expression
  `map` and `filter`
