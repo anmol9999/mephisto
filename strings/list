@@ -1,0 +1,17 @@
+# list properties
+ indexed
+ heterogeneous- mixed data types
+ ordered
+ can hold duplicate elements 
+ represented by `[ ]`
+ list() function converts other sequence into list
+ mutable - it can change value during execution
+
+
+ # what u need to learn?
+ creating list 
+ indexing and slicing
+ looping/ traversal of list
+ functions of list comprehension
+ lambda expression
+ `map` and `filter`
