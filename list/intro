@@ -14,7 +14,7 @@
  looping/ traversal of list
  functions of list comprehension
  1)adding item
- -append()
+ -append()  # adds value at the end of list
  -insert
  -extend
  2) removing item
@@ -27,5 +27,6 @@
  -count
  -index
  -copy
+ list comprehension
  lambda expression
  `map` and `filter`
