@@ -6,3 +6,7 @@ print(nums)
 
 words = list(map(str, input('words >>').split()))
 print(words)
+
+
+
+
