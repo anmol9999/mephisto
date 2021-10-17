@@ -8,3 +8,4 @@ for i in mytuple:
 print('\nreversed :- ')
 for i in mytuple[::-1]:
     print(i,end=' ')
+
