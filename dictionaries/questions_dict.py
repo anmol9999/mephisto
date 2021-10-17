@@ -12,7 +12,7 @@ for i in range(3):
 
 total=sum(list(items.values()))
 avg=sum(list(items.values())/len(items))
-print(f"total is {total},  average is {avg}")
+print(f"total is {total},  average is {average}")
 
 sum=0
 for i in items:

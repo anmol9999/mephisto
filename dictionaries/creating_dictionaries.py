@@ -30,3 +30,5 @@ print(myinfo)
 address = dict(sno=121,street='abcd street',location='jdsjd',city='lucknow',pincode=226015)
 
 print(address)
+
+
