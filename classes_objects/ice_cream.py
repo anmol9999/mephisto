@@ -13,3 +13,4 @@ ic2 = IceCream('vanilla',25,'Kwality Walls','cone')
 
 print(ic1.brand, ic1.flavor)
 print(ic2.brand, ic2.flavor)
+print(ic1.style)
