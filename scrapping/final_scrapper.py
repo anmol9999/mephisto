@@ -39,4 +39,5 @@ def get_flipkart_data(search = 'bags', pos = 1, limit=None):
 
 content = get_flipkart_data('bags',limit=3)
 
-pd.DataFrame(content).to_csv('flipkart_bags.csv')
+pd.DataFrame(content).to_csv('flipkart_bags.csv')              #saves file as csv module
+
